@@ -21,7 +21,7 @@ Trinket Turtle Graphics 知識點:
 
 Line Notify 使用簡介：
 
-* [Github](https://github.com/victorgau/khpy_linenotify_intro)
+* [相關資料](https://github.com/victorgau/khpy_linenotify_intro)
 * [Line Notify Help](https://help2.line.me/line_notify/web/pc?lang=zh-Hant)
 * [取得 Line Notify Token](https://notify-bot.line.me/en/)
 * [Line Notify API Document](https://notify-bot.line.me/doc/en/)
