@@ -15,4 +15,8 @@ Trinket Turtle Graphics:
 * function(函式):解決特定程式區塊重複的問題
 * module(模組):解決函式定義在不同程式裡面會被重複定義的問題
 
+Line Notify 簡介：
+
+* [Line Notify Github](https://github.com/victorgau/khpy_linenotify_intro)
+
 
